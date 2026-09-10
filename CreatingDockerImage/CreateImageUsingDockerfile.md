@@ -1,4 +1,4 @@
-**# Understanding the Dockerfile for the Accounts Service
+
 
 ## Overview
 
